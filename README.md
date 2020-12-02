@@ -11,8 +11,3 @@ Thank you for reading! This is our project for Data Science Seminar, in which we
 [Checkpoint 5](https://github.com/kpseth78/Chicago-Police-Database-Analysis/tree/main/Checkpoint%205)
 
 [Final Report](https://github.com/kpseth78/Chicago-Police-Database-Analysis/blob/main/Project_Report.pdf)
-
-Group Folder for The Clever Wombats
-* Will Ansehl
-* Nick Easton
-* Krish Seth
